@@ -22,3 +22,14 @@ Contents
    api
 
 Lumache has its documentation hosted on Read the Docs.
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
